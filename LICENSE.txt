@@ -1,0 +1,168 @@
+CHURCH LOWER THIRDS BY CULTO EM OFF
+Licença de uso gratuito (programa de código fechado)
+Free-use license (closed-source software)
+
+Copyright (c) 2026 Jonas Silva (Culto em Off). Todos os direitos reservados.
+All rights reserved.
+
+============================================================================
+PORTUGUÊS
+============================================================================
+
+Ao instalar ou usar o Church Lower Thirds ("o Programa"), você concorda com
+estes termos. Se não concordar, não instale nem use o Programa.
+
+1. O QUE VOCÊ PODE FAZER
+
+   a) Baixar, instalar e usar o Programa gratuitamente, por tempo
+      indeterminado, em quantos computadores quiser.
+   b) Usar o Programa para qualquer finalidade lícita: pessoal, em igrejas,
+      em organizações e em trabalhos comerciais, inclusive em transmissões
+      monetizadas.
+   c) Entregar a outras pessoas uma cópia do instalador oficial, sem
+      alterá-lo e sem cobrar por ele, ou indicar o endereço oficial de
+      download.
+
+2. O QUE VOCÊ NÃO PODE FAZER
+
+   a) Modificar, adaptar, traduzir ou criar obras derivadas do Programa.
+   b) Descompilar, desmontar, fazer engenharia reversa ou tentar de qualquer
+      outra forma obter, ler, copiar ou publicar o código do Programa, a não
+      ser nos casos em que a lei garanta esse direito apesar desta proibição.
+   c) Vender, alugar, sublicenciar ou cobrar pelo Programa, sozinho ou junto
+      com outro produto.
+   d) Distribuir versões alteradas do Programa ou do instalador.
+   e) Remover ou esconder os avisos de autoria, de marca ou desta licença.
+
+3. O QUE É SEU
+
+   As configurações, os nomes, os textos, as imagens, os perfis e os modelos
+   próprios que você cria com o Programa são seus. Esta licença não dá ao
+   autor nenhum direito sobre eles.
+
+4. PROPRIEDADE
+
+   O Programa é licenciado, não vendido. O código, o desenho das telas, os
+   modelos que acompanham o Programa, o nome "Church Lower Thirds" e a marca
+   "Culto em Off" pertencem ao autor. Nenhum direito além dos descritos nesta
+   licença é concedido.
+
+5. COMPONENTES DE TERCEIROS
+
+   O Programa inclui componentes de código aberto e fontes tipográficas de
+   terceiros, cada um com a sua própria licença, listados no arquivo
+   THIRD-PARTY-NOTICES.txt que acompanha o Programa. Para esses componentes
+   valem as licenças deles, e não esta.
+
+6. ATUALIZAÇÕES E DADOS
+
+   O Programa funciona no seu computador e não coleta dados pessoais. Para
+   avisar de versões novas, ele consulta a página de downloads no GitHub. O
+   autor pode lançar, mudar ou deixar de lançar versões a qualquer momento.
+
+7. SEM GARANTIA
+
+   O Programa é fornecido "como está", sem garantia de qualquer tipo,
+   expressa ou implícita, inclusive de adequação a um fim específico ou de
+   funcionamento sem interrupções ou erros. Você usa o Programa por sua conta
+   e risco.
+
+8. LIMITE DE RESPONSABILIDADE
+
+   Na máxima extensão permitida pela lei, o autor não responde por danos de
+   qualquer natureza decorrentes do uso ou da impossibilidade de uso do
+   Programa, inclusive falhas em transmissões, perda de dados ou lucros
+   cessantes.
+
+9. FIM DA LICENÇA
+
+   Esta licença termina automaticamente se você descumprir qualquer um destes
+   termos. Nesse caso, você deve parar de usar o Programa e apagar as suas
+   cópias.
+
+10. LEI APLICÁVEL
+
+   Esta licença é regida pelas leis da República Federativa do Brasil. Se
+   houver diferença entre a versão em português e a versão em inglês, vale a
+   versão em português.
+
+Contato: https://www.cultoemoff.com.br
+
+============================================================================
+ENGLISH
+============================================================================
+
+By installing or using Church Lower Thirds ("the Software"), you agree to
+these terms. If you do not agree, do not install or use the Software.
+
+1. WHAT YOU MAY DO
+
+   a) Download, install and use the Software free of charge, for as long as
+      you like, on as many computers as you like.
+   b) Use the Software for any lawful purpose: personal, in churches, in
+      organizations and in commercial work, including monetized streams.
+   c) Give other people a copy of the official installer, unmodified and
+      free of charge, or point them to the official download address.
+
+2. WHAT YOU MAY NOT DO
+
+   a) Modify, adapt, translate or create derivative works of the Software.
+   b) Decompile, disassemble, reverse engineer or otherwise attempt to
+      obtain, read, copy or publish the code of the Software, except where
+      the law grants that right despite this restriction.
+   c) Sell, rent, sublicense or charge for the Software, alone or bundled
+      with another product.
+   d) Distribute modified versions of the Software or of its installer.
+   e) Remove or hide the notices of authorship, trademark or this license.
+
+3. WHAT IS YOURS
+
+   The settings, names, texts, images, profiles and custom styles you create
+   with the Software are yours. This license gives the author no rights over
+   them.
+
+4. OWNERSHIP
+
+   The Software is licensed, not sold. The code, the design of the screens,
+   the styles that ship with the Software, the name "Church Lower Thirds" and
+   the "Culto em Off" brand belong to the author. No rights other than those
+   described in this license are granted.
+
+5. THIRD-PARTY COMPONENTS
+
+   The Software includes open-source components and third-party typefaces,
+   each under its own license, listed in the THIRD-PARTY-NOTICES.txt file
+   that ships with the Software. Those components are governed by their own
+   licenses, not by this one.
+
+6. UPDATES AND DATA
+
+   The Software runs on your computer and does not collect personal data. To
+   tell you about new versions, it checks the downloads page on GitHub. The
+   author may release, change or stop releasing versions at any time.
+
+7. NO WARRANTY
+
+   The Software is provided "as is", without warranty of any kind, express
+   or implied, including fitness for a particular purpose or uninterrupted
+   or error-free operation. You use the Software at your own risk.
+
+8. LIMITATION OF LIABILITY
+
+   To the maximum extent permitted by law, the author is not liable for any
+   damages arising from the use of, or the inability to use, the Software,
+   including failed broadcasts, loss of data or loss of profits.
+
+9. TERMINATION
+
+   This license ends automatically if you fail to comply with any of these
+   terms. In that case you must stop using the Software and delete your
+   copies.
+
+10. GOVERNING LAW
+
+   This license is governed by the laws of the Federative Republic of Brazil.
+   If the Portuguese and English versions differ, the Portuguese version
+   prevails.
+
+Contact: https://www.cultoemoff.com.br
