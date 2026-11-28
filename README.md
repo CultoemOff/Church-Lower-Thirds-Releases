@@ -127,8 +127,10 @@ Durante o culto, o operador só usa o painel, sem sair do OBS.
 - **Uma aba por elemento.** O ponto vermelho na aba mostra o que está no ar.
 - **Chave liga/desliga.** Cinza é fora do ar; vermelha é no ar. O elemento entra e sai com a animação do modelo.
 - **Lista pronta.** Um clique num nome salvo coloca esse nome na tela. Também dá para digitar um nome na hora.
-- **Tempo na tela.** Um tempo global tira cada elemento sozinho, e o alfinete fixa o que deve ficar.
-- **Roteiro do culto.** Põe em ordem o que vai ao ar e avança com um clique em "Próximo".
+- **Grupos de nomes.** Os nomes salvos podem ficar em grupos (Pastores, Louvor, Convidados…), que se minimizam. A busca procura em todos os grupos de uma vez.
+- **Ofertas com miniatura.** A aba de ofertas mostra o cartão como ele vai ao ar: o QR Code, os textos e as cores. O cartão fica na tela até ser desligado.
+- **Tempo na tela.** Um tempo global tira nomes, redes e comentários sozinhos, e o alfinete fixa o que deve ficar.
+- **Roteiro do culto.** Põe em ordem o que vai ao ar e avança com um clique em "Próximo". Quem não usa pode esconder a aba.
 - **Perfil.** Troca tudo de uma vez, por exemplo do culto de domingo para o encontro de mulheres.
 
 ![Painel do Church Lower Thirds ao lado da saída no OBS: um clique no nome e nas chaves faz cada elemento entrar e sair da tela](docs/media/painel-dock-obs.gif)

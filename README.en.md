@@ -95,8 +95,10 @@ During the service the operator only uses the panel, without leaving OBS.
 - **One tab per element.** The red dot on a tab shows what is on air.
 - **On/off switch.** Grey is off air; red is on air. The element comes in and goes out with the animation of the style.
 - **Ready list.** One click on a saved name puts that name on screen. A name can also be typed on the spot.
-- **Time on screen.** A global time takes each element off by itself, and the pin keeps what should stay.
-- **Order of service.** Puts what goes on air in order and moves on with one click on "Next".
+- **Groups of names.** Saved names can be kept in groups (Pastors, Worship, Guests…) that fold. The search looks in every group at once.
+- **Offerings with a miniature.** The offerings tab shows the card as it goes on air: the QR code, the texts and the colors. The card stays on screen until it is switched off.
+- **Time on screen.** A global time takes names, social networks and comments off by themselves, and the pin keeps what should stay.
+- **Order of service.** Puts what goes on air in order and moves on with one click on "Next". Those who do not use it can hide the tab.
 - **Profile.** Changes everything at once, for example from the Sunday service to the women's meeting.
 
 ![The Church Lower Thirds panel next to the OBS output: one click on the name and on the switches brings each element on and off screen](docs/media/painel-dock-obs.gif)
